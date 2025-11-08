@@ -1,0 +1,185 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    color: white;
+    background-color: rgb(1, 1, 12);
+    text-align: center;
+    margin: 2px;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px;
+    max-width: auto;
+
+}
+.Personal{
+    color: rgb(1, 1, 12) ;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-bottom: 3px solid  rgb(1, 1, 12);
+    padding: 5px;
+
+  
+}
+.content{
+    color:black;
+    padding:5px;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-size-adjust: 10px 0;
+    font-size: 15px;    
+
+}
+.name{
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+.Age{
+    margin: 10px 0 10px 0;
+
+}
+.location{
+    margin: 10px;
+    margin-left: 0px;
+}
+  
+.Education{
+     color: rgb(1, 1, 12) ;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-bottom: 3px solid  rgb(1, 1, 12);
+    padding: 5px;
+
+
+  
+}
+.btech{
+      color:black;
+    padding:5px;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-size-adjust: 10px 0;
+    font-size: 15px; 
+    margin-top: 10px 0;
+
+}
+.Courses{
+     color: rgb(1, 1, 12) ;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-bottom: 3px solid  rgb(1, 1, 12);
+    padding: 5px;
+
+  }
+  div{
+    
+    padding:5px;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-size-adjust: 10px 0;
+    font-size: 15px; 
+    margin-top: 20px 10px;
+    padding: 10px;
+
+    
+  }
+  .html{
+    padding:5px;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-size-adjust: 10px 0;
+    font-size: 15px; 
+    margin-top: 20px 10px;
+    padding: 10px;
+    
+
+  }
+  .css{
+     padding:5px;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    text-size-adjust: 10px 0;
+    font-size: 15px; 
+    margin-top: 20px 10px;
+    padding: 10px;
+
+  }
+  .skill{
+      color: rgb(1, 1, 12) ;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-bottom: 3px solid  rgb(1, 1, 12);
+    padding: 5px;
+
+  }
+  .ht{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+}
+.contact{
+     color: rgb(1, 1, 12) ;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-bottom: 3px solid  rgb(1, 1, 12);
+    padding: 5px;
+
+
+}
+.sa{
+    margin-top: 15px;
+    
+    
+}
+.ph{
+    margin-top: 15px;
+
+}
+button{
+    color:white;
+    font-size: 10px;
+    font-weight: bold;
+    max-width: 800px;
+    margin: auto;
+    background-color: rgb(3, 6, 8);
+    border-radius: 5px;
+    
+    padding: 5px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: red;
+}
+  
+
+
+
